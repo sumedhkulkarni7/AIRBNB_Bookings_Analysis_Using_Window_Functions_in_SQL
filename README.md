@@ -5,8 +5,11 @@ This project involves a comprehensive analysis of AIRBNB's data using Window Fun
 
 ## Objectives
 Analyze Average Prices using the OVER() and PARTITION_BY() function.
+
 Identify different ways of ranking the output using RANK() and DENSE_RANK() functions.
+
 List the row numbers in DESC order using the ROW_NUMBER() function.
+
 Explore and categorize LAG() and LEAD() function and it's capability to find moving average.
 
 ## Dataset
